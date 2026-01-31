@@ -1,2 +1,1 @@
-# todo-list-app
-imple To-Do List App using HTML, CSS &amp; JavaScript
+This To-Do List Web Application is a plain but useful project created with the help of HTML, CSS, and Vanilla JavaScript to train the main principles of frontend development. The application provides an easy and simple user interface by enabling users to add tasks, update them as complete and remove tasks. It relies on the localStorage of browser to store information thus guaranteeing that the work is saved even after the page is reloaded. This project helped me to reinforce my knowledge of manual operations of the Dom, event processing and client-side data storage and responsive design and clean code organization.
